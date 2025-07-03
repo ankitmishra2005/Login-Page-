@@ -1,5 +1,5 @@
 
-# 🔐 Responsive Login Page
+# 🔐 Login Page
 
 A simple, clean, and responsive **Login Page** designed using **HTML** and **CSS**.  
 This project is ideal for learning frontend UI design and form structure.  
